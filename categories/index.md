@@ -1,5 +1,5 @@
 ---
 layout: category
-taxonomy: Cloud
+taxonomy: cloud
 permalink: /categories/cloud/
 ---
