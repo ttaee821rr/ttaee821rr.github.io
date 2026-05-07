@@ -1,7 +1,7 @@
 ---
 title: "나의 첫 번째 블로그 포스팅"
 categories:
-  - Cloud
+  - cloud
 ---
 
 드디어 블로그에 첫 글을 올립니다!
