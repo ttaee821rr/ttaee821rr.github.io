@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "운영체제론"
-taxonomy: OS
+taxonomy: os
 permalink: /categories/os/
 ---
