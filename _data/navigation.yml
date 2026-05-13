@@ -1,9 +1,19 @@
 # main links
 main:
   - title: "클라우드활용 포트폴리오"
-    url: /categories/cloud/
+    url: /categories/Cloud/
   - title: "운영체제론"
-    url: /categories/os/
+    url: /categories/OS/
+  - title: "자료구조론"
+    url: /categories/DS/
+  -title: "컴퓨터네트워크"
+    url: /categories/Network/
+  - title: "컴퓨터구조"
+    url: /categories/CA/
+  - title: "머신러닝의이해"
+    url: /categories/ML/
+  - title: "LLM&RAG"
+    url: /categories/LLM&RAG/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
