@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "LLM&RAG"
-taxonomy: LLM&RAG
+taxonomy: llm&rag
 permalink: /categories/llm&rag/
 ---
