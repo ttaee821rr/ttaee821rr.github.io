@@ -2,6 +2,6 @@
 title: "자료구조론"
 layout: category
 permalink: /categories/ds/
-taxonomy: DS
+taxonomy: ds
 author_profile: true
 ---
