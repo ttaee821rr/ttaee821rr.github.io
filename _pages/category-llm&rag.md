@@ -2,6 +2,6 @@
 title: "LLM&RAG"
 layout: category
 permalink: /categories/llm&rag/
-taxonomy: LLM&RAG
+taxonomy: llm&rag
 author_profile: true
 ---
