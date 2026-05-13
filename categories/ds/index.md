@@ -1,6 +1,6 @@
 ---
 layout: category
 title: "자료구조론"
-taxonomy: DS
+taxonomy: ds
 permalink: /categories/ds/
 ---
