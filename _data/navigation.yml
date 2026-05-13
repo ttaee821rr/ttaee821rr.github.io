@@ -6,7 +6,7 @@ main:
     url: /categories/os/
   - title: "자료구조론"
     url: /categories/ds/
-  -title: "컴퓨터네트워크"
+  - title: "컴퓨터네트워크"
     url: /categories/network/
   - title: "컴퓨터구조"
     url: /categories/ca/
