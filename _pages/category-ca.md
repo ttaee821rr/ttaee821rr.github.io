@@ -1,7 +1,7 @@
 ---
 title: "컴퓨터구조"
 layout: category
-permalink: /categories/CA/
+permalink: /categories/ca/
 taxonomy: CA
 author_profile: true
 ---
