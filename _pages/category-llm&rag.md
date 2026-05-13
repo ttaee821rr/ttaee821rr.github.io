@@ -1,7 +1,7 @@
 ---
 title: "LLM&RAG"
 layout: category
-permalink: /categories/LLM&RAG/
+permalink: /categories/llm&rag/
 taxonomy: LLM&RAG
 author_profile: true
 ---
